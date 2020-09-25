@@ -1,0 +1,11 @@
+{
+  "PORT": 3000,
+  "express_debug": true,
+  "mongo_host": "cluster0.cttzo.mongodb.net",
+  "mongo_user":"pascal",
+  "mongo_pass":"pwd",
+  "mongo_database": "flintmessenger",
+  "mongo_debug": true,
+  "session_cookie_name":"cookie_session",
+  "session_secret": "mySessionSerectId"
+}
